@@ -9,7 +9,7 @@ A modern, intuitive Point of Sale (POS) system designed specifically for Tunisia
 
 ## 📱 Demo
 
-![CaisseCafé Demo](assets/demo.gif)
+![CaisseCafé Demo](assets/demoFinal.gif)
 
 ## ✨ Features
 
@@ -64,7 +64,7 @@ A modern, intuitive Point of Sale (POS) system designed specifically for Tunisia
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/caissecafe.git
+   git clone https://github.com/TayssirBenAhmed/caissecafe.git
    cd caissecafe
    ```
 
